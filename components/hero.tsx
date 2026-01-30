@@ -112,6 +112,14 @@ contribute innovative solutions in dynamic software environments
             >
               Get in Touch
             </a>
+            <a
+              href="/JaiGoyal_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-accent hover:text-accent-foreground transition-all duration-300 w-full sm:w-auto text-center"
+            >
+              View Resume
+            </a>
           </motion.div>
 
           {/* Social Links */}
