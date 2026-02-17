@@ -143,14 +143,11 @@ contribute innovative solutions in dynamic software environments
   className="p-3 rounded-lg border border-border hover:bg-card hover:border-accent hover:text-accent transition-all duration-300"
   aria-label="LeetCode"
 >
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 50 50"
-    fill="currentColor"
-    className="w-5 h-5"
-  >
-    <path d="M25 2C12.85 2 3 11.85 3 24s9.85 22 22 22 22-9.85 22-22S37.15 2 25 2zm0 4c9.94 0 18 8.06 18 18s-8.06 18-18 18S7 33.94 7 24 15.06 6 25 6zm-3.5 9L13 24l8.5 9 2.5-2.5L18 24l6-6z"/>
-  </svg>
+ <svg  xmlns="http://www.w3.org/2000/svg" width="24" height="24"  
+fill="currentColor" viewBox="0 0 24 24" >
+<!--Boxicons v3.0.8 https://boxicons.com | License  https://docs.boxicons.com/free-->
+<path d="m15.42 16.94-2.25 2.17a2.1 2.1 0 0 1-1.52.56 2.1 2.1 0 0 1-1.52-.56l-3.61-3.63a2.18 2.18 0 0 1-.58-1.55 2.07 2.07 0 0 1 .58-1.52l3.6-3.65a2.1 2.1 0 0 1 1.53-.54 2.08 2.08 0 0 1 1.52.55l2.25 2.17A1.14 1.14 0 0 0 17 9.33l-2.17-2.2a4.24 4.24 0 0 0-2-1.12l2.06-2.08a1.15 1.15 0 0 0-1.62-1.62l-8.43 8.42a4.48 4.48 0 0 0-1.24 3.2 4.57 4.57 0 0 0 1.24 3.23l3.63 3.63A4.38 4.38 0 0 0 11.66 22a4.45 4.45 0 0 0 3.2-1.25L17 18.56a1.14 1.14 0 0 0-1.61-1.62z"/><path d="M19.34 12.84h-8.45a1.12 1.12 0 0 0 0 2.24h8.45a1.12 1.12 0 0 0 0-2.24"/>
+</svg>
 </a>
 
             <a
