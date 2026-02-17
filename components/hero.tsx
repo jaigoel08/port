@@ -137,6 +137,23 @@ contribute innovative solutions in dynamic software environments
               <Github size={20} />
             </a>
             <a
+  href="https://leetcode.com/u/jaigoyal09082003/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="p-3 rounded-lg border border-border hover:bg-card hover:border-accent hover:text-accent transition-all duration-300"
+  aria-label="LeetCode"
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 50 50"
+    fill="currentColor"
+    className="w-5 h-5"
+  >
+    <path d="M25 2C12.85 2 3 11.85 3 24s9.85 22 22 22 22-9.85 22-22S37.15 2 25 2zm0 4c9.94 0 18 8.06 18 18s-8.06 18-18 18S7 33.94 7 24 15.06 6 25 6zm-3.5 9L13 24l8.5 9 2.5-2.5L18 24l6-6z"/>
+  </svg>
+</a>
+
+            <a
               href="https://linkedin.com/in/jai-goyal-80ba17254"
               target="_blank"
               rel="noopener noreferrer"
